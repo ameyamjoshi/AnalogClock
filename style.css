@@ -11,8 +11,8 @@ body{
     background-color: rgb(255, 156, 121);
 }
 .clock{
-    height: 400px;
-    width:400px;
+    height: 300px;
+    width:300px;
     background : #fff url(clock.png);
     background-size: cover;
     border-radius: 50%;
